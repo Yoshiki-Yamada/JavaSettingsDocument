@@ -3,13 +3,13 @@ macの人はHomebrewというパッケージマネージャーがあり、かな
 その前に、Xcodeをインストールしましょう。
 ## xcodeのインストール（command line tools）
 1. こちらからアクセス https://itunes.apple.com/jp/app/xcode/id497799835?mt=12&ign-mpt=uo%3D4
-![xcode](https://github.com/Yoshiki-Yamada/projectmember2019Sp/blob/master/image06.png "image06")
+![xcode](https://github.com/Yoshiki-Yamada/ProjectMember2019/blob/master/image06.png "image06")
 2. コマンドラインデベロッパーツールをインストールする。
 ```xcode-select --install```をターミナルで実行。
 3. インストールが完了
 ## Homebrweのインストール
 1. まず、Homebrewをインストールします。こちらにアクセスしてターミナルにコマンドをコピーペーストしてください。
-![image05](https://github.com/Yoshiki-Yamada/projectmember2019Sp/blob/master/image05.png "image05")
+![image05](https://github.com/Yoshiki-Yamada/ProjectMember2019/blob/master/image05.png "image05")
 すると、Homebrewのインストールが始まります。時間がかかる場合もあります。
 - 途中でエンターの入力やmacのpassの入力を求められることがあります。
 ```
