@@ -40,8 +40,8 @@ Read the analytics documentation (and how to opt-out) here:
   ```
 
 2. インストールが完了したら早速JDKをインストールします。
-ターミナルに`brew cask install java`と入力し実行するとインストールができる。
-`java -version`と入力して実行するとバージョンを確認できる。
-12出ない場合は`brew cask upgrade java`と入力する
-再度、`java -version`で確認してみましょう。
+ターミナルに`brew cask install java`と入力し実行するとインストールができる。  
+`java -version`と入力して実行するとバージョンを確認できる。  
+12出ない場合は`brew cask upgrade java`と入力する  
+再度、`java -version`で確認してみましょう。  
 - ここまでで環境設定は終了です。
