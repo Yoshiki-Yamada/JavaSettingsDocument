@@ -62,3 +62,8 @@ Copyright (C) 2013 Free Software Foundation, Inc.
 This is free software; see the source for copying conditions.  There is NO  
 warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
 ```
+  
+## macの場合  
+- xcodeをインストールする時にcommandlinetoolsをインストールしたと思います。それがあるとターミナルでコマンドを打つことができます。  
+これを使ってもオーケーです。  
+その際に使うエディターは好みのものを使うといいと思います。例えば、sublimeとかcotEditorとかですかね。僕はsublimeを使っています。
