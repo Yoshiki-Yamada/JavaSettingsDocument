@@ -3,27 +3,27 @@
 windowsの場合は`minGW`というものがあります。まだ開発環境が整っていない人はこちらを参照して見てください。  
 ### MinGWのインストール  
 1. こちらのリンクをクリックしてインストーラーをダウンロードする。
-![image7]()  
+![image7](https://github.com/Yoshiki-Yamada/ProjectMember2019/blob/master/image07.png "image07")  
 2. ダウンロードしたインストーラーを起動して`install`をする。  
-![image08]()  
+![image8](https://github.com/Yoshiki-Yamada/ProjectMember2019/blob/master/image08.png "image08")  
 3. 次にインストールをする際の設定をします。  
 ・`Installation Directory`（インストール先のフォルダ）  
 ・`User Interface Options`（ユーザーインターフェイスの設定）  
-![image09]()  
+![image9](https://github.com/Yoshiki-Yamada/ProjectMember2019/blob/master/image09.png "image09")  
 4. `Continue`をクリック  
-![image10]()  
+![image10](https://github.com/Yoshiki-Yamada/ProjectMember2019/blob/master/image10.png "image10")  
 5. すると`MinGW`インストールが始まります。  
-![image11]()  
+![image11](https://github.com/Yoshiki-Yamada/ProjectMember2019/blob/master/image11.png "image11")  
 6. １００％になったらインストール完了です。  
-![image12]()  
+![image12](https://github.com/Yoshiki-Yamada/ProjectMember2019/blob/master/image12.png "image12")  
 7. インストール先にインストールが完了していると思います。それを起動させます。  
-![image13]()  
+![image13](https://github.com/Yoshiki-Yamada/ProjectMember2019/blob/master/image13.png "image13")  
 8. チェックボックスがあると思います。そこの`mingw32-base`を右クリックして`Mark for Installation`をクリック。  
-![image14]()  
+![image14](https://github.com/Yoshiki-Yamada/ProjectMember2019/blob/master/image14.png "image14")  
 9. 次に、２つのチェックボックスにチェックをつけます。  
 ・`mingw32-base`  
 ・`mingw32-gcc-g++`  
-![image15]()  
+![image11](https://github.com/Yoshiki-Yamada/ProjectMember2019/blob/master/image11.png "image11")  
 10. 上のメニューから`Installtion`から`Apply Changes`を選択する。  
 ![image16]()  
 11. クリックすると、`Schedule of Pending Actions`というウィンドウが出てくるので、`Apply`をクリックする。  
