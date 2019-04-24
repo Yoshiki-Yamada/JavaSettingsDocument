@@ -33,15 +33,32 @@ windowsの場合は`minGW`というものがあります。まだ開発環境が
 ![image19](https://github.com/Yoshiki-Yamada/ProjectMember2019/blob/master/image19.png "image19")  
 ### パスを通す  
 パスを通します。  
-1. コントロールパネルを起動する。  
+1. コントロールパネルを起動する。 
+![image20](https://github.com/Yoshiki-Yamada/ProjectMember2019/blob/master/image20.png "image20")  
 2. システムとセキュリティをクリックします。  
+![image21](https://github.com/Yoshiki-Yamada/ProjectMember2019/blob/master/image21.png "image21")  
 3. システムをクリックします。  
+![image22](https://github.com/Yoshiki-Yamada/ProjectMember2019/blob/master/image22.png "image22")  
 4. 左のシステムの詳細をクリック  
+![image23](https://github.com/Yoshiki-Yamada/ProjectMember2019/blob/master/image23.png "image23")  
 5. クリックすると、システムのプロパティが表示されるので、環境変数をクリックする。  
+![image24](https://github.com/Yoshiki-Yamada/ProjectMember2019/blob/master/image24.png "image24")  
 6. 環境変数です。システムの環境変数にあるPashを選択して編集をクリックすます。  
+![image25](https://github.com/Yoshiki-Yamada/ProjectMember2019/blob/master/image25.png "image25")  
 7. 変数値末尾に次のパスを追加してOKをクリックします。  
 `;C:¥MinGW¥bin`  
+![image26](https://github.com/Yoshiki-Yamada/ProjectMember2019/blob/master/image26.png "image26")  
 8. OKをクリックします。  
+![image27](https://github.com/Yoshiki-Yamada/ProjectMember2019/blob/master/image27.png "image27")  
 9. コマンドプロンプトを起動して、次のコマンドを実行して見ましょう。  
+![image28](https://github.com/Yoshiki-Yamada/ProjectMember2019/blob/master/image28.png "image28")  
 10. `gcc --version`   
 11. このように表示されているか確認して完了になります。  
+![image29](https://github.com/Yoshiki-Yamada/ProjectMember2019/blob/master/image29.png "image29")  
+```
+> gcc --version  
+gcc (GCC) 4.8.1  
+Copyright (C) 2013 Free Software Foundation, Inc.  
+This is free software; see the source for copying conditions.  There is NO  
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
+```
