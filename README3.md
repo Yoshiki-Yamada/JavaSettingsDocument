@@ -20,14 +20,15 @@ windowsの場合は`minGW`というものがあります。まだ開発環境が
 ![image13](https://github.com/Yoshiki-Yamada/ProjectMember2019/blob/master/image13.png "image13")  
 8. チェックボックスがあると思います。そこの`mingw32-base`を右クリックして`Mark for Installation`をクリック。  
 ![image14](https://github.com/Yoshiki-Yamada/ProjectMember2019/blob/master/image14.png "image14")  
+![image15](https://github.com/Yoshiki-Yamada/ProjectMember2019/blob/master/image15.png "image15")  
 9. 次に、２つのチェックボックスにチェックをつけます。  
 ・`mingw32-base`  
 ・`mingw32-gcc-g++`  
-![image15](https://github.com/Yoshiki-Yamada/ProjectMember2019/blob/master/image15.png "image15")  
-10. 上のメニューから`Installtion`から`Apply Changes`を選択する。  
 ![image16](https://github.com/Yoshiki-Yamada/ProjectMember2019/blob/master/image16.png "image16")  
-11. クリックすると、`Schedule of Pending Actions`というウィンドウが出てくるので、`Apply`をクリックする。  
+10. 上のメニューから`Installtion`から`Apply Changes`を選択する。  
 ![image17](https://github.com/Yoshiki-Yamada/ProjectMember2019/blob/master/image17.png "image17")  
+11. クリックすると、`Schedule of Pending Actions`というウィンドウが出てくるので、`Apply`をクリックする。  
+![image18](https://github.com/Yoshiki-Yamada/ProjectMember2019/blob/master/image18.png "image18")  
 12. クリックするとパッケージのインストールが始まります。完了したら`Close`を押して完了です。  
 ### パスを通す  
 パスを通します。  
