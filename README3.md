@@ -66,4 +66,14 @@ warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 ## macの場合  
 - xcodeをインストールする時にcommandlinetoolsをインストールしたと思います。それがあるとターミナルでコマンドを打つことができます。  
 これを使ってもオーケーです。  
-その際に使うエディターは好みのものを使うといいと思います。例えば、sublimeとかcotEditorとかですかね。僕はsublimeを使っています。
+その際に使うエディターは好みのものを使うといいと思います。例えば、Visual Studio CodeとかCotEditorとかAtomとかですかね。ちなみに僕はsublimeを使っています。参考までに載せておくのでよければ使って見てください。エディターにこだわりがなければターミナルから`vi hogehoge.c`で書くこともできます。  
+- Atom https://atom.io/  
+- sublime https://www.sublimetext.com/  
+- visual studio code https://www.visualstudio.com/products/free-developer-offers-vs.aspx  
+- CotEditor https://coteditor.com/  
+- mi http://www.mimikaki.net/  
+また、IDEAを使いたい人は、こちらにリンクをはっつけておきます。かなり重たいので、参考までに。  
+- xcode https://itunes.apple.com/jp/app/xcode/id497799835?mt=12  
+- eclips http://www.eclipse.org/  
+- CLion https://www.jetbrains.com/clion/  
+以上で完了です。
