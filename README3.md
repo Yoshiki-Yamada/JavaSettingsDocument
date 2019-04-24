@@ -30,6 +30,7 @@ windowsの場合は`minGW`というものがあります。まだ開発環境が
 11. クリックすると、`Schedule of Pending Actions`というウィンドウが出てくるので、`Apply`をクリックする。  
 ![image18](https://github.com/Yoshiki-Yamada/ProjectMember2019/blob/master/image18.png "image18")  
 12. クリックするとパッケージのインストールが始まります。完了したら`Close`を押して完了です。  
+![image19](https://github.com/Yoshiki-Yamada/ProjectMember2019/blob/master/image19.png "image19")  
 ### パスを通す  
 パスを通します。  
 1. コントロールパネルを起動する。  
