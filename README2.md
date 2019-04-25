@@ -16,3 +16,7 @@ homebrewをインストールできたと思うので、早速つかってみま
 12出ない場合は`brew cask upgrade java`と入力する  
 再度、`java -version`で確認してみましょう。  
 - ここまでで環境設定は終了です。
+
+## 補足  
+homebrewを使うことで様々なソフトをインストールやバージョンを管理できます。が、サイトから直接インストールすることもできます。一応リンクをはっつけておきます。   
+jdk12のインストールサイト https://www.oracle.com/technetwork/java/javase/downloads/jdk12-downloads-5295953.html  
