@@ -31,7 +31,7 @@ windowsの人はwindowsの方からインストールしてください。
 2. その画面の中の`intellij idea ultimate`をダウンロードする。  
 ![image04](https://github.com/Yoshiki-Yamada/ProjectMember2019/blob/master/image04.png "image04")  
 3. ダウンロードしたファイルを実行すれば、ダウンロード完了です。  
- JDKのインストールは[こちら](https://github.com/Yoshiki-Yamada/ProjectMember2019/blob/master/README2.md)  
+ JDKのインストールは[こちら](https://github.com/Yoshiki-Yamada/ProjectMember2019/edit/master/,jdk_12_install.md)  
  [戻る](https://github.com/Yoshiki-Yamada/ProjectMember2019/blob/master/,環境設定用.md)
     
       
