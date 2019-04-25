@@ -16,7 +16,8 @@ homebrewをインストールできたと思うので、早速つかってみま
 12出ない場合は`brew cask upgrade java`と入力する  
 再度、`java -version`で確認してみましょう。  
 - 次にC言語の開発環境設定です。  
-[次へ](https://github.com/Yoshiki-Yamada/ProjectMember2019/blob/master/,c-pro_install.md)
+[次へ](https://github.com/Yoshiki-Yamada/ProjectMember2019/blob/master/,c-pro_install.md)  
+[戻る](https://github.com/Yoshiki-Yamada/ProjectMember2019/blob/master/,intellij_idea_install.md)  
 
 ## 補足  
 homebrewを使うことで様々なソフトをインストールやバージョンを管理できます。が、サイトから直接インストールすることもできます。一応リンクをはっつけておきます。   
