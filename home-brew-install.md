@@ -4,6 +4,7 @@
 ![image05](https://github.com/Yoshiki-Yamada/ProjectMember2019/blob/master/image05.png "image05")  
 すると、Homebrewのインストールが始まります。時間がかかる場合もあります。  
 - 途中でエンターの入力やmacのpassの入力を求められることがあります。  
+passを打つときは何も表示されないので、気をつけて作業してください。  
 ```
 $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
