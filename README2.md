@@ -1,7 +1,7 @@
 # JDKのインストール(mac用)  
 ### windowsの方はこちらから設定してください。[windows用JDKインストールマニュアル](https://github.com/shikari-s/installJDK)
-macの人はHomebrewというパッケージマネージャーがあり、かなり優秀なので、これを使ってみましょう。
-その前に、Xcodeをインストールしましょう。
+macの人はHomebrewを使ってインストールをしていきます。  
+Xcodeをインストールしましょう。  
 ## xcodeのインストール（command line tools）
 1. こちらからアクセス https://itunes.apple.com/jp/app/xcode/id497799835?mt=12&ign-mpt=uo%3D4
 ![xcode](https://github.com/Yoshiki-Yamada/ProjectMember2019/blob/master/image06.png "image06")
