@@ -31,4 +31,4 @@ Read the analytics documentation (and how to opt-out) here:
     https://docs.brew.sh
   ```  
 これでインストールが完了しました。ターミナルに`brew -v`と打って確認して見ましょう。  
-[戻る]()
+[戻る](https://github.com/Yoshiki-Yamada/ProjectMember2019/blob/master/README1.md)
