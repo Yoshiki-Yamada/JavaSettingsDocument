@@ -9,7 +9,8 @@ macの人はHomebrewというパッケージマネージャーがあり、かな
 ```xcode-select --install```をターミナルで実行。
 3. インストールが完了
 
-2. インストールが完了したら早速JDKをインストールします。  
+2. 早速JDKをインストールします。  
+homebrewをインストールできたと思うので、早速つかってみましょう。  
 ターミナルに`brew cask install java`と入力し実行するとインストールができる。  
 `java -version`と入力して実行するとバージョンを確認できる。  
 12出ない場合は`brew cask upgrade java`と入力する  
