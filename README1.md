@@ -24,7 +24,7 @@ https://www.jetbrains.com/student/
 intellijとは、Javaなど数多くのプログラミング言語に対応した統合開発環境です。  
 他にも、eclipsやNetBeansなどもありますが、今回はintellij IDea Ultimateをインストールします。  
 homebrewをインストールが済んでいる方は`brew cask install intellij-idea`をターミナルで入力して実行するとインストールできます。  
-[homebrewのインストールはこちら]()  
+[homebrewのインストールはこちら](https://github.com/Yoshiki-Yamada/ProjectMember2019/blob/master/home-brew-install.md)  
 1. こちらのリンクにアクセスする。https://www.jetbrains.com/idea/download/#section=mac  
 windowsの人はwindowsの方からインストールしてください。  
 ![image03](https://github.com/Yoshiki-Yamada/ProjectMember2019/blob/master/image03.png "image03")  
