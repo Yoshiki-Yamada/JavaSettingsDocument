@@ -18,7 +18,8 @@ https://www.jetbrains.com/student/
 ![image01](https://github.com/Yoshiki-Yamada/ProjectMember2019/blob/master/image01.png "image01")
  
 
-4. 大学のメールアドレスにメールが届くので、メールの内容の中の`Active Educational License`をクリックすると、ライセンス画面に行く。そこにある`Download activation code`をクリックすると、ライセンスが取得できる。
+4. 大学のメールアドレスにメールが届くので、メールの内容の中の`confirm account`をクリックすると、ライセンス画面に行く。  
+サインアップからpassなどを設定する。  
 
 ## intellij のインストール  
 intellijとは、Javaなど数多くのプログラミング言語に対応した統合開発環境です。  
