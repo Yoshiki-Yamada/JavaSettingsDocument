@@ -31,4 +31,9 @@ Read the analytics documentation (and how to opt-out) here:
     https://docs.brew.sh
   ```  
 これでインストールが完了しました。ターミナルに`brew -v`と打って確認して見ましょう。  
-[戻る](https://github.com/Yoshiki-Yamada/ProjectMember2019/blob/master/README1.md)
+結果
+```
+Homebrew 2.1.16
+Homebrew/homebrew-core (git revision 7e82b; last commit 2019-11-10)
+Homebrew/homebrew-cask (git revision cdb90; last commit 2019-11-11)
+```
