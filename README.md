@@ -1,7 +1,7 @@
 # Java（etc...）の開発環境の設定資料
 
 ## 内容
-[java install](https://github.com/Yoshiki-Yamada/JavaSettingsDocument/blob/master/README.md)  
+[java install](https://github.com/Yoshiki-Yamada/JavaSettingsDocument/blob/master/jdkinstall.md)  
 [intellij install](https://github.com/Yoshiki-Yamada/JavaSettingsDocument/blob/master/%2Cintellij_idea_install.md)   
 [homebrew install](https://github.com/Yoshiki-Yamada/JavaSettingsDocument/blob/master/home-brew-install.md)※macのみ  
 [maven install]()  
